@@ -1,0 +1,11 @@
+
+*.sqlite3
+
+csds_react/node_modules
+csds_react/webpack-stats.json
+
+.idea/
+.python-version
+
+assets/css/
+assets/js/
