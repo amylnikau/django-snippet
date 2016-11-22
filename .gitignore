@@ -9,3 +9,5 @@ csds_react/webpack-stats.json
 
 assets/css/
 assets/js/
+
+static/
